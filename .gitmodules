@@ -1,9 +1,9 @@
-[submodule "jtc4omm"]
-	path = jtc4omm
-	url = https://github.com/justedlev/jtc4omm.git
-[submodule "spring-data-v3-commons"]
-	path = spring-data-v3-commons
-	url = https://github.com/justedlev/spring-data-v3-commons.git
+[submodule "sb3c"]
+	path = sb3c
+	url = https://github.com/justedlev/spring-boot-v3-commons.git
+[submodule "jtc4mm"]
+	path = jtc4mm
+	url = https://github.com/justedlev/jtc4mm.git
 [submodule "logging"]
 	path = logging
 	url = https://github.com/justedlev/logging.git
